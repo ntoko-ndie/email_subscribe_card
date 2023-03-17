@@ -1,2 +1,2 @@
-# email_subscribe_card
- Email Subscribe Card
+# Email Subscribe Project
+ Email Subscribe Card Mini Project Using Tailwind CDN
