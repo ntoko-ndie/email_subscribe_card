@@ -1,2 +1,2 @@
 # Email Subscribe Project
- Email Subscribe Card Mini Project Using Tailwind Play vCDN
+ Email Subscribe Card Mini Project Using Tailwind Play CDN
